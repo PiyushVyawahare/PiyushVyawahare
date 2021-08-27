@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Balaji Vyawahare</h1>
 <h3 align="center">Hi there I am Piyush Vyawahare, a third-year undergrad, pursuing B. Tech. in Computer Engineering from JSPM's Rajarshi Shahu College of Engineering,Pune.</h3>
-<img align="center" src="https://github.com/PiyushVyawahare/PiyushVyawahare/blob/main/PRANAV%20KONDE%20(1).jpg" alt="Piyush" height="350" width=100%/>
+<img align="center" src="https://github.com/PiyushVyawahare/PiyushVyawahare/blob/main/PiyushVyawahare.jpg" alt="Piyush" height="350" width=100%/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PiyushVyawahare&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PiyushVyawahare" alt="trophies" /></a> </p>
