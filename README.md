@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Balaji Vyawahare</h1>
-<img align="center" src="https://github.com/PiyushVyawahare/PiyushVyawahare/blob/main/PiyushVyawahare.jpg" alt="Piyush" height="350" width=100%/>
+<img align="center" src="https://github.com/PiyushVyawahare/PiyushVyawahare/blob/main/PiyushVyawahare.jpg" alt="Piyush" height="2s50" width=100%/>
 <h3 align="center">Hi there I am Piyush Vyawahare, a third-year undergrad, pursuing B. Tech. in Computer Engineering from JSPM's Rajarshi Shahu College of Engineering,Pune.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PiyushVyawahare&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
