@@ -1,2 +1,29 @@
-<h1 align="center">Hi 👋, I'm Piyush Balaji Vyawahare</h1>
-<h3 align="center">CSE graduate and passionate software developer with a strong foundation in both front-end and back-end technologies, including HTML, CSS, JavaScript, Node.js, React.js, MongoDB, and Express.js. Recently gained hands-on experience in Java and Spring Boot, contributing to robust and scalable microservices. Proficient in building responsive and efficient applications using modern libraries like Socket.IO, Redux, JWT and MUI. Known for writing clean, maintainable code and problem-solving in complex environments. Highly adaptable, eager to learn new technologies, and driven to continuously improve skills and deliver high-quality software solutions. Seeking to leverage my expertise in a dynamic and innovative development team.</h3>
+# Hi, I'm Piyush 👋
+### Software Engineer · MERN Stack · React.js · Next.js · TypeScript
+
+I'm a Software Engineer with 3+ years of experience building scalable web applications. Currently at **TCS**, working on a large-scale US healthcare platform using React.js, Next.js, and TypeScript in a micro-frontend architecture. I care about clean code, test coverage, and developer experience.
+
+---
+
+### What I work with
+
+**Frontend:** React.js, Next.js, TypeScript, Redux, Tailwind CSS, Material UI  
+**Backend:** Node.js, Express.js, REST APIs, GraphQL, JWT  
+**Database:** MongoDB, PostgreSQL, MySQL  
+**Tools:** Git, Docker, AWS, Jest, React Testing Library
+
+---
+
+### Currently
+
+- 🔭 Building a new project with Next.js, TypeScript and Node.js
+- 🌱 Exploring system design and distributed systems
+- 👀 Open to SDE-2 / Full Stack Engineer roles at product companies
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushvyawahare58-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/piyushvyawahare58/)
+[![GitHub](https://img.shields.io/badge/GitHub-PiyushVyawahare-black?style=flat&logo=github)](https://github.com/PiyushVyawahare)
+[![Email](https://img.shields.io/badge/Email-piyushvyawahare2001@gmail.com-red?style=flat&logo=gmail)](mailto:piyushvyawahare2001@gmail.com)
